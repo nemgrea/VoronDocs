@@ -18,6 +18,20 @@ To verify that each stepper motor is operating correctly, send the following com
 
 Run this command for each of the motors:
 
+### V0, SW
+* stepper_x
+* stepper_y
+* stepper_z
+* extruder
+
+### V1, Legacy
+* stepper_x
+* stepper_y
+* stepper_z
+* stepper_z1 
+* extruder
+
+### V2
 * stepper_x
 * stepper_y
 * stepper_z
